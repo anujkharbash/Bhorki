@@ -1,0 +1,19 @@
+body{
+    background-image: url(images/slide1.png) ;
+}
+
+
+h1{
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.floor{
+    padding: 50px;
+    text-align: center;
+}
+p{
+    background: rgb(255, 255, 255);
+    
+}
